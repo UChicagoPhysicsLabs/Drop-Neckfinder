@@ -8,5 +8,5 @@ dependencies:
   - matplotlib
   - ipympl
   - pip:
-    - py-opencv
+    - opencv-python
 prefix: /opt/anaconda3/envs/DropPinchoff
