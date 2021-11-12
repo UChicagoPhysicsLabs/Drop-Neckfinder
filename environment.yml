@@ -4,8 +4,9 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - opencv
   - jupyter
   - matplotlib
   - ipympl
+  - pip:
+    - py-opencv
 prefix: /opt/anaconda3/envs/DropPinchoff
