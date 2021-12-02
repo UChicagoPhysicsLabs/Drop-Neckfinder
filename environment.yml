@@ -7,7 +7,7 @@ dependencies:
   - jupyter
   - matplotlib
   - ipympl
-  - mesa-libgl-cos6-x86_64
+  - pip
   - pip:
     - opencv_contrib_python==4.2.0.32
 prefix: /opt/anaconda3/envs/DropPinchoff
