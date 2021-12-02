@@ -9,5 +9,5 @@ dependencies:
   - ipympl
   - mesa-libgl-cos6-x86_64
   - pip:
-    - opencv-python
+    - opencv_contrib_python==4.2.0.32
 prefix: /opt/anaconda3/envs/DropPinchoff
