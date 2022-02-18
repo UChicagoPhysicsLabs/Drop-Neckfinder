@@ -10,4 +10,5 @@ dependencies:
   - pip
   - pip:
     - opencv_contrib_python==4.2.0.32
+    - opencv_python-headless<4.5
 prefix: /opt/anaconda3/envs/DropPinchoff
